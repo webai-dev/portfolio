@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe5efd14.css",
+    "main.js": "/static/js/main.e4f895c0.js",
+    "static/js/453.15d2b1b8.chunk.js": "/static/js/453.15d2b1b8.chunk.js",
+    "static/media/welcome-banner.jpg": "/static/media/welcome-banner.daffee13f010b22dd758.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/blog-2.png": "/static/media/blog-2.84c3cb5af4f28efd95c4.png",
+    "static/media/blog-3.png": "/static/media/blog-3.a3b7ee06471186b7d114.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/profile_image.jpg": "/static/media/profile_image.2db2542e17c774fe8113.jpg",
+    "static/media/blog-4.png": "/static/media/blog-4.383bf881d088f294836c.png",
+    "static/media/blog-6.png": "/static/media/blog-6.3098b465b9673444b9c9.png",
+    "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/blog-5.png": "/static/media/blog-5.93e357ad5e3f1c578a16.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/blog-1.png": "/static/media/blog-1.531dfe111eab7ea76583.png",
+    "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/Flaticon.svg": "/static/media/Flaticon.a28b7a33a98eaafe6782.svg",
+    "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/Flaticon.eot": "/static/media/Flaticon.d7ee6b935960a7e071e3.eot",
+    "static/media/Flaticon.ttf": "/static/media/Flaticon.c1d80b13104a7a19d76f.ttf",
+    "static/media/Flaticon.woff": "/static/media/Flaticon.a2ec91a6ba3a881b09d2.woff",
+    "index.html": "/index.html",
+    "main.fe5efd14.css.map": "/static/css/main.fe5efd14.css.map",
+    "main.e4f895c0.js.map": "/static/js/main.e4f895c0.js.map",
+    "453.15d2b1b8.chunk.js.map": "/static/js/453.15d2b1b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5efd14.css",
+    "static/js/main.e4f895c0.js"
+  ]
+}
